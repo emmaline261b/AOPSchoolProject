@@ -1,0 +1,22 @@
+= AOP School Project
+
+The School project is a simple project that will help you understand the ideas of Aspect-Oriented Programming quickly.
+
+*DESCRIPTION*
+
+Imagine there is a school with just #two students#.
+One of them is #Hard-Working Harry# who doesn't understand the idea of work-life balance.
+He works as hard and as long as he can (to the verge of death).
+He doesn't know how to rest so his resting period is short but he doesn't recover all that well.
+
+Then, there is #Lazy Louie# who knows how to live his life. He is not as great at working as Harry (he gains experience slower) but he's good at resting so he recovers more and quicker than his friend.
+
+
+*TASK LIST*
+
+*** *!!! IMPORTANT NOTE !!! All tasks must be solved #WITHOUT TOUCHING# the core code.*
+
+1. Add 10 tasks to the school task list. Measure the total time needed for getting all the tasks done. Then, measure all the time needed by the tasks done by Harry and Louie separately. They should combine into the total time.
+
+2. Let's try with some hard-core tasks. Add random tasks instead of standard ones. Execute the program and #keep both students alive#. Use whichever advice you want and change whatever part of code you want but remember the *important note*.
+
